@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Blessing Onuoha</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align="right" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" alt="coding" width="350" />
+<img align="right" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" alt="coding" width="350" height="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blessingonuoha&label=Profile%20views&color=0e75b6&style=flat" alt="blessingonuoha" /> </p>
 
