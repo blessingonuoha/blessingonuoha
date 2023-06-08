@@ -7,15 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/maggiejames4439" target="blank"><img src="https://img.shields.io/twitter/follow/maggiejames4439?logo=twitter&style=for-the-badge" alt="maggiejames4439" /></a> </p>
 
-- 🔭 I’m currently working on **securing an Intern/Junior developer position**
-
-- 🌱 I’m currently learning **mobile App development with React**
+- 🔭 I’m currently working on **securing an Intern/Junior developer role**
 
 - 👯 I’m looking to work with **people that are passionate about building innovative projects.**
-
-- 🤝 I’m looking to contribute to **the open-source community**
-
-- 💬 Ask me about **React, JavaScript and CSS**
 
 - 📫 How to reach me **bonuoha555@gmail.com**
 
