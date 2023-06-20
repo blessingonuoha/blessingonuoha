@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to work with **people that are passionate about building innovative projects.**
 
-- 📫 How to reach me **bonuoha555@gmail.com**
+- 📫 Reach me via **blessingonuoha.dev@gmail.com**
 
 - ⚡ Fun fact **I am an awesome team player with a weird sense of humor**
 
