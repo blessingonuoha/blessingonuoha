@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blessingonuoha&label=Profile%20views&color=0e75b6&style=flat" alt="blessingonuoha" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bibiidev" target="blank"><img src="https://img.shields.io/twitter/follow/maggiejames4439?logo=twitter&style=for-the-badge" alt="maggiejames4439" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bibiidev" target="blank"><img src="https://img.shields.io/twitter/follow/bibiidev?logo=twitter&style=for-the-badge" alt="bibiidev" /></a> </p>
 
 - 🔭 I’m currently working on **securing an Intern/Junior developer role**
 
