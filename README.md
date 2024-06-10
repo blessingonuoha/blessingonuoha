@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/bibiidev" target="blank"><img src="https://img.shields.io/twitter/follow/bibiidev?logo=twitter&style=for-the-badge" alt="bibiidev" /></a> </p>
 
-- 🔭 I’m currently working on **securing an Intern/Junior developer role**
+- 🔭 I’m currently working on **securing an Web developer role**
 
 - 👯 I’m looking to work with **people that are passionate about building innovative projects.**
 
